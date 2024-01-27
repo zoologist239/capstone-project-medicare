@@ -1,0 +1,111 @@
+{
+    "cSpell.words": [
+        "Borno",
+        "Dankoly",
+        "emailaddress",
+        "Farida",
+        "Gynae",
+        "GYNAECOLOGY",
+        "Hepatologist",
+        "Hepatologists",
+        "Hepatology",
+        "Kamselem",
+        "Maryam",
+        "minlen",
+        "NHIS",
+        "phan",
+        "purecounter",
+        "Sani",
+        "Usman"
+    ],
+    "git.ignoreLimitWarning": true,
+    "angular.enable-strict-mode-prompt": false,
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "myfirstSQLconnection",
+            "database": "medic",
+            "username": "root",
+            "password": "root"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "MyFirstSQLConnection",
+            "database": "medicare",
+            "username": "root",
+            "password": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhostConnection",
+            "database": "medicareinternational",
+            "username": "root",
+            "password": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "dankoly",
+            "database": "sani",
+            "username": "root",
+            "password": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "backend",
+            "database": "backend",
+            "username": "root",
+            "password": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MedicareNG",
+            "database": "MedicNG",
+            "username": "root",
+            "password": "root"
+        }
+    ]
+}
